@@ -1,4 +1,4 @@
-import { moduleMap } from './moduleMap'
+import { moduleMap } from './config'
 import { execMod } from './execMod'
 
 function loadScript(name, callback) {

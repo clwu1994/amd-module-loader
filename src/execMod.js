@@ -1,4 +1,4 @@
-import { moduleMap } from './moduleMap'
+import { moduleMap } from './config'
 function execComplete(name) {
   moduleMap[name].oncomplete.forEach(fn => fn(moduleMap[name].exports))
 }
