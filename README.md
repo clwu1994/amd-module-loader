@@ -26,3 +26,4 @@ yarn build
 amd-module-loader &copy; clwu1994, Released under the MIT License.
 
 > GitHub [@clwu1994](https://github.com/clwu1994)
+# amd-module-loader
